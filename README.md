@@ -10,7 +10,7 @@ wenn Sie mit der Maus über eine Kachel fahren:
 4) Stadtstatistik (Bevölkerung, Region, Durchschnittsgehalt)
 5) verschiedene Werkzeuge zum Hervorheben eines Bereichs auf einer Karte
 Das Beispiel:
-Wenn Sie auf Geschäfte im RG-Netzwerk klicken, 
+Wenn Sie auf Geschäfte im LNTA-Netzwerk klicken, 
 werden Hilfeinformationen in Form einer Tabelle angezeigt.
 ~~~
 P.S. Wenn Sie an dem Projekt interessiert sind, schreiben Sie mir an die [E-Mail](mailto:beloteloff@pm.me)
