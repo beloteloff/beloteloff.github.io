@@ -4,7 +4,7 @@ Projekt zur Suche nach den besten Orten für die Eröffnung eines Einzelhandelsg
 ~~~terminal
 Ebenen befinden sich in der oberen rechten Ecke und werden angezeigt, 
 wenn Sie mit der Maus über eine Kachel fahren:
-1) verschiedene Heatmaps (die Dichte der Buslinien,Zielgruppe für ein Einzelhandelsnetzwerk,Straßenhandelszone, Usw); 
+1) verschiedene Heatmaps (die Dichte der Buslinien, Zielgruppe für ein Einzelhandelsnetzwerk,Straßenhandelszone, Usw); 
 2) U-Bahnstationen; 
 3) Einzelhandelsketten;
 4) Stadtstatistik (Bevölkerung, Region, Durchschnittsgehalt)
