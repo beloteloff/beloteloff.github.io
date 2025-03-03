@@ -13,4 +13,4 @@ Das Beispiel:
 Wenn Sie auf Geschäfte im LNTA-Netzwerk klicken, 
 werden Hilfeinformationen in Form einer Tabelle angezeigt.
 ~~~
-P.S. Wenn Sie an dem Projekt interessiert sind, schreiben Sie mir an die [E-Mail](mailto:beloteloff@pm.me)
+P.S. Wenn Sie an dem Projekt interessiert sind, schreiben Sie mir an die [E-Mail](mailto:chuchicheaschtli@icloud.com)
